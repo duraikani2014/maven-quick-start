@@ -1,5 +1,7 @@
 package clinic.programming.training;
 
+import java.util.*;
+import java.util.Collections;
 public class Application {
 
     public void greeting(){
